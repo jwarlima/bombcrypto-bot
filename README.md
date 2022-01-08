@@ -1,8 +1,4 @@
-# New captcha update:
-
-### Ta oficialmente terminado!
-### It is done!
-  
+# Multi account and send all to work:
 
 ## Faz a boa pra nois
 ## Do the good
