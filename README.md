@@ -1,12 +1,21 @@
+# New captcha update:
+
+### Ta oficialmente terminado!
+### It is done!
+  
+
 ## Faz a boa pra nois
 ## Do the good
 
 ### Smart Chain Wallet(BUSD/BNB/BCOIN):
-#### 0xD839f689c1F2128F986E26EA358925f22364Eb7b
+#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
+
+### Smart Chain Wallet(BUSD/BNB/BCOIN) - Dilnei / Nova Interface 05/01/2022 (Multi Janelas Infinitas + Clique no botão ALL):
+#### 0x93cBDa15dD2fEa41bdDe5a17BeC2fd6a73E8E52e
 
 ### PIX:
-  3c47ddec-003f-4c68-93eb-2a9dd8de1c83
-![pix](https://github.com/jwarlima/bombcrypto-bot/raw/warley/readme-images/pix.jpeg)
+  6ce2b79e-97be-4881-a882-81902e29d7ce
+![pix](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/pix.jpeg)
 
   
 # Sobre:
