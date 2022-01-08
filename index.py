@@ -439,22 +439,25 @@ def refreshHeroes():
         logger('⚒️ Sending all heroes to work', 'green')
 
     buttonsClicked = 1
-    empty_scrolls_attempts = c['scroll_attemps']
+    if c['select_heroes_mode'] != "all":
+        empty_scrolls_attempts = c['scroll_attemps']
 
-    while(empty_scrolls_attempts >0):
-        if c['select_heroes_mode'] == 'full':
-            buttonsClicked = clickFullBarButtons()
-        elif c['select_heroes_mode'] == 'green':
-            buttonsClicked = clickGreenBarButtons()
-        else:
-            buttonsClicked = clickButtons()
+        while(empty_scrolls_attempts >0):
+            if c['select_heroes_mode'] == 'full':
+                buttonsClicked = clickFullBarButtons()
+            elif c['select_heroes_mode'] == 'green':
+                buttonsClicked = clickGreenBarButtons()
+            else:
+                buttonsClicked = clickButtons()
 
-        sendHeroesHome()
+            sendHeroesHome()
 
-        if buttonsClicked == 0:
-            empty_scrolls_attempts = empty_scrolls_attempts - 1
-        scroll()
-        time.sleep(2)
+            if buttonsClicked == 0:
+                empty_scrolls_attempts = empty_scrolls_attempts - 1
+            scroll()
+            time.sleep(2)
+
+    buttonsClicked = clickButtons()
     logger('💪 {} heroes sent to work'.format(hero_clicks))
     goToGame()
 
