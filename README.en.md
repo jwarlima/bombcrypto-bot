@@ -15,11 +15,10 @@ bot, I have created some donation milestones so people can collectively fund
 the bot.
 
 ### Smart Chain Wallet:
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
+#### 0xD839f689c1F2128F986E26EA358925f22364Eb7b
 
 ### Paypal:
-[Donate:](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
-https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ
+[Donate:](zaz097@hotmail.com)
 
 ## Disclaymer:
   
@@ -123,6 +122,6 @@ If both these conditions are true, it clicks the home button.
 ## Pay me a coffe :)
 
 ### Wallet:
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
+#### 0xD839f689c1F2128F986E26EA358925f22364Eb7b
 ### Paypal:
-[Donate](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
+[Donate](zaz097@hotmail)
