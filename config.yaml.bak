@@ -100,10 +100,6 @@
     # [pt_BR]
     # Valor padrão: 0.9
     go_to_work_btn: 0.9
-    
-    # [pt_BR]
-    # Valor padrão: 0.9
-    all_go_to_work_btn: 0.9
 
     # [en_US]
     # Default value: 0.9
